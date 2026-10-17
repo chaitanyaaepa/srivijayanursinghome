@@ -1,0 +1,11 @@
+# Robots.txt for Sri Vijaya Nursing Home
+# Replace https://www.example.com with your verified production domain upon launch
+
+User-agent: *
+Allow: /
+
+# Disallow 404 error page from search engine indexes
+Disallow: /404.html
+
+# XML Sitemap Location
+Sitemap: https://www.example.com/sitemap.xml
